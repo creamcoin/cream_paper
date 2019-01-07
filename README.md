@@ -1,1 +1,1 @@
-# cream_paper
+# Cream Paper wallet
